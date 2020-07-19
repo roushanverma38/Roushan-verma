@@ -6,4 +6,4 @@ I am learning Web-Development and i loves to code the interactive designs sungla
 
 My field of Interests are FullStack Development and Android Development heart_eyes
 
-Learning: Html,css,java script,java man_student
+Learning: Html,css,java script,java man_student.
